@@ -466,12 +466,12 @@ a:focus {
 .about_section .detail-box p {
   margin-top: 15px;
 }
-
+//here
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
   background-color: #ff640c;
-  color: white;
+  color:red;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
